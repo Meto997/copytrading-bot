@@ -1,0 +1,5 @@
+You can download the freemind software here: 
+https://sourceforge.net/projects/freemind/
+
+When you download and install this software you will be able to edit the
+mindmap using the source file in this folder.

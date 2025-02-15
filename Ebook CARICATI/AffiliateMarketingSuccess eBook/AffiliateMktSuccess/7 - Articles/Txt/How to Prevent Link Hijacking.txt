@@ -1,0 +1,13 @@
+How to Prevent Link Hijacking
+Affiliate marketing offers a very powerful way for anyone to make money online. What makes this simple business model so powerful, is the fact that the marketer doesn’t actually need to create or acquire a product or service of their own. All they need to do is to find one that they like the looks of and then promote that. Seeing as some affiliate programs offer as much as 70% or more commission, that can potentially be just as lucrative as developing something from scratch but with none of the risk, none of the overhead and none of the barrier to entry. 
+But that’s not to say that you can sleepwalk your way to success this way. You still need to be vigilant and many people will overlook the smaller details that are so crucial for this to work. 
+For example, what are you doing right now to protect your affiliate links? What can you do to prevent people from simply using the URL to buy products without you getting the commission you deserve? And what about those that would use the link to create their own affiliate link and profit instead of you?? 
+Here are three easy things you can – and should – do right away! 
+Use a Redirect 
+One of the simplest and easiest ways is to use a redirect. This might mean setting up a web page that acts as an ‘intermediate’ page and then simply sends the visitors onward to the product or offer. That way, you can ensure that the cookies are stored on the user’s computer but they won’t be able to spy the destination URL without clicking. 
+Masked URL 
+You can take redirecting one step further by making sure that the user never even sees the address of the destination site. You do this by using URL masking which is also known as a ‘stealth redirection’. Although the user is redirected, the URL will never change! 
+Use a ‘Pretty Link’ 
+A pretty link is a link that is shortened to be more attractive and shorter while of course also hiding the original URL. This works just the same as a redirect, except that you’ll be using a ready-made service like Tiny URL or Google’s link shortener. 
+Either way, this also harder to peak at and is also more accepted. Many people use TinyURL even for non-affiliate links, so this is a good way to fly under the radar! 
+
