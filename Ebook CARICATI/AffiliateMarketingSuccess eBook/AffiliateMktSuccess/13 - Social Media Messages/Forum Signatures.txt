@@ -1,0 +1,62 @@
+Signatures with BB Code - For forums supporting BB code such as the Warrior Forum.
+
+Copy and paste the code to the forum's Signature section in your profile.
+
+
+
+
+Signature #1:
+
+[center]
+[url=http://YOUR-URL.com][b]Claim your guide on how to successfully market other peoples products![/b][/url][/center]
+
+
+
+Signature #2:
+
+[center][url=http://YOUR-URL.com][b]Who else wants to know how to increase their affiliate commissions?[/b][/url][/center]
+
+
+
+Signature #3:
+
+[center][url=http://YOUR-URL.com][b]Limited time only! Download your copy of my brand new course: "Affiliate Marketing Success"[/b][/url][/center]
+
+
+
+Signature #4:
+
+[center][url=http://YOUR-URL.com][b]Claim your step-by-step guide on how to successfully sell other peoples products![/b][/url][/center]
+
+
+
+Signature #5:
+
+[center][url=http://YOUR-URL.com][b]WWant to learn how to increase your affiliate commissions? In my new guide "Affiliate Marketing Success" you’ll learn exactly how![/b][/url][/center]
+
+
+
+———————————————————
+
+
+
+Signatures in Plain Text
+
+
+Signature #1:
+Claim your guide on how to successfully market other peoples products!
+
+Signature #2:
+Who else wants to know how to increase their affiliate commissions?
+
+Signature #3:
+Limited time only! Download your copy of my brand new course: "Affiliate Marketing Success"
+
+Signature #4:
+Claim your step-by-step guide on how to successfully sell other peoples products!
+
+Signature #5:
+Want to learn how to increase your affiliate commissions? In my new guide "Affiliate Marketing Success" you’ll learn exactly how!
+
+
+
